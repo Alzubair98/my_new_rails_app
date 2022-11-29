@@ -1,3 +1,3 @@
 class Greeting < ApplicationRecord
-    validates :messages, presence: true
+  validates :messages, presence: true
 end
